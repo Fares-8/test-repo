@@ -1,4 +1,4 @@
-from main import say_hello
+from main import add
 
-def test_say_hello():
-    assert say_hello() == "Hello!"
+def test_add():
+    assert add(2, 3) == 5
