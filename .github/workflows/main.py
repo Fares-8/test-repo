@@ -1,2 +1,2 @@
-def say_hello():
-    return "Hello!"
+def add(a, b):
+    return a + b
